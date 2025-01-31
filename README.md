@@ -1,8 +1,11 @@
 # tinyfiledialogs-cr
 
 Basic bindings and convenience class for using tinyfiledialogs in Crystal.
-tinyfiledialogs and its information can be found here: [](https://sourceforge.net/projects/tinyfiledialogs/)
+
+tinyfiledialogs and its information can be found here: [https://sourceforge.net/projects/tinyfiledialogs/](https://sourceforge.net/projects/tinyfiledialogs/)
+
 Built against tinyfiledialogs 3.19.1 for Windows GNU and Linux.
+
 
 ## Installation
 

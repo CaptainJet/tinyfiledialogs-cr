@@ -1,5 +1,5 @@
 {% if flag?(:windows) && flag?(:x86_64) %}
-  @[Link(ldflags: "#{__DIR__}/../lib/windows/libtinyfiledialogs.a")]
+  @[Link(ldflags: "#{__DIR__}/../lib/windows/libtinyfiledialogs.a -lcomdlg32 -lole32")]
 {% elsif flag?(:linux) && flag?(:x86_64) %}
   @[Link(ldflags: "#{__DIR__}/../lib/linux/libtinyfiledialogs.a")]
 {% end %}
