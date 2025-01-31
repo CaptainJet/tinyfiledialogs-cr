@@ -1,0 +1,9 @@
+name: tinyfiledialogs-cr
+version: 1.0.0
+
+authors:
+  - Robert Rowe <robrowe5@gmail.com>
+
+crystal: '>= 1.15.0'
+
+license: MIT
