@@ -25,7 +25,7 @@ Built against tinyfiledialogs 3.19.1 for Windows GNU and Linux.
 require "tinyfiledialogs-cr"
 ```
 
-I cannot be asked to write good usage instructions. Please read the source file for commented documentation.
+I cannot be asked to write good usage instructions. Please read the source file for commented documentation. Or read the [Docs](https://crystaldoc.info/github/CaptainJet/tinyfiledialogs-cr/master/index.html)
 
 ## Development
 
